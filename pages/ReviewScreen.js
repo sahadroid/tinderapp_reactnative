@@ -61,6 +61,8 @@ const ReviewScreen = () => {
         handleYup={handleYup}
         handleNope={handleNope}
       />
+
+
     </View>
   );
 };
